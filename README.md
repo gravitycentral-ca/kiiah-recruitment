@@ -2,13 +2,41 @@
 
 ## Introduction
 
-We need a Frontend developer with AngularJS / TypeScript experience, to continue the development of a platform that uses an API made in Ruby on Rails and in the frontend we use Apache cordoba and AngularJs.
+Hi, Welcome to [Kiiah](https://www.kiiah.com/)
+
+## Tests
+
+Please perform the following basic tests and send the results to the following email: [deyvid@gravitycentral.ca](mailto:deyvid@gravitycentral.ca)
+
+###Test:
+
+ *[Html](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
+ *[Css](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS)
+ *[Angular2](https://www.tutorialspoint.com/angular2/angular2_online_test.htm)
+
+email: [deyvid@gravitycentral.ca](mailto:deyvid@gravitycentral.ca)
+------
+
+We need a Frontend developer with Experience in Angular2 - TypeScript - Cordova, to continue the development of a platform that uses an API made in Ruby.
 
 It is a Progressive Web Application we are currently developing only the web version for mobile and desktop.
 
 we are looking for a proactive person, with experience in the UI customization, Pixel Perfect Obsession, animations and transitions, with a good eye for visual details.
 
-You Must have experience with the following components:
+### Important:
+*Full-Time work
+*Speak English
+
+### Programming Languages Required: 
+
+  - Angular2
+  - TypeScript
+  - Css / Sass
+  - Git
+
+### We append some libraries that we use in the development
+
+Frontend:
 
        import { RouterModule, Routes } from '@angular/router';
        import { CommonModule } from '@angular/common';
@@ -22,59 +50,12 @@ You Must have experience with the following components:
        import { Location } from '@angular/common';
        import * as AWS from 'aws-sdk';
 
-We would like you to have experiences with the following gems:
-
-  - gem 'rack-cors', :require => 'rack/cors'
-  - gem 'devise'
-  # User carrierwave for ImageUploading
-  - gem 'carrierwave'
-  - gem 'mini_magick'
-  - gem 'carrierwave-aws'
-  - gem 'carrierwave-video'
-
-Programming Languages Required: 
-  - Angular2
-  - TypeScript
-  - Css / Sass
-  
-Quick Test:
-
-Personal Question:
-
-    * Are you available to work full time?
-    * Which of the required job skills do you feel you are strongest at?
-    * What were your greatest achievements in previous jobs?
-    * Tell me about a time in your career in which you messed up. How did you solve it?
-    * What three things are important for you in your ideal job?
-    * Do you have experience sending data forms to an API and handling requests?
-    * Which part of this project do you think will take the most time?
-
-Test:
-
-    Question: ¿What is the foo value?
-
-    var foo = 10 + '20';
-
-    Question: How would you make this work?
-
-    add(2, 5); // 7
-    add(2)(5); // 7
-
-    Question: What is the result of the following sentence?
-
-    "i'm a lasagna hog".split("").reverse().join("");
-
-    Question: What is the value of window.foo?
-
-    ( window.foo || ( window.foo = "bar" ) );
-
-
 Keywords:
-       * AWS (Amazon Web Services) 
-       * Angular 
-       * Apache-Cordova 
-       * Rails-API 
-       * CSS3 
-       * Git 
-       * HTML5 
-       * TypeScript
+* AWS (Amazon Web Services) 
+* Angular 
+* Apache-Cordova 
+* Rails-API 
+* CSS3 
+* Git 
+* HTML5 
+* TypeScript
