@@ -10,11 +10,13 @@ Please perform the following basic tests and send the results to the following e
 
 ###Test:
 
- *[Html](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
- *[Css](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS)
- *[Angular2](https://www.tutorialspoint.com/angular2/angular2_online_test.htm)
+ - [Html](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
+ - [Css](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS)
+ - [Angular2](https://www.tutorialspoint.com/angular2/angular2_online_test.htm)
 
 email: [deyvid@gravitycentral.ca](mailto:deyvid@gravitycentral.ca)
+
+
 ------
 
 We need a Frontend developer with Experience in Angular2 - TypeScript - Cordova, to continue the development of a platform that uses an API made in Ruby.
@@ -24,8 +26,8 @@ It is a Progressive Web Application we are currently developing only the web ver
 we are looking for a proactive person, with experience in the UI customization, Pixel Perfect Obsession, animations and transitions, with a good eye for visual details.
 
 ### Important:
-*Full-Time work
-*Speak English
+ - Full-Time work
+ - Speak English
 
 ### Programming Languages Required: 
 
